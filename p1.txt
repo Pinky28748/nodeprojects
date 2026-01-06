@@ -1,1 +1,3 @@
 Node js is a run time environment to run the javascript at backend with the extra features like file handling,os handling.
+
+Node js has a express framework which is used to make backend applications
